@@ -19,3 +19,5 @@ Sales trend analysis for e-commerce company
 ## Loyalty Program
 
 ## Refund Rate
+
+## Key Takeaways
